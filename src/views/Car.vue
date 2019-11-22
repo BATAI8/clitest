@@ -29,7 +29,7 @@ export default {
   data() {
     return {
       value1: 0,
-      value2: 5012312,
+      value2: 100,
       value3: 36,
       value4: 40,
       value5: 40,
