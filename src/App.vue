@@ -16,7 +16,9 @@
   text-align: center;
   color: #2c3e50;
 }
-
+/* .active{
+background: red
+} */
 /* #nav {
   padding: 30px;
 }
