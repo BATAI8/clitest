@@ -3,7 +3,10 @@
    <List></List>
      
    <Cont></Cont>
-   <router-link to='/car'>购物车</router-link>
+  <p> <router-link to='/car'>购物车</router-link></p>
+  <p> <router-link to='/axioslx'>数据请求练习</router-link></p>
+  <p> <router-link to='/bf'>并发请求练习</router-link></p>
+  <p> <router-link to='/axiossz'>axis实战</router-link></p>
   </div>
 </template>
 
